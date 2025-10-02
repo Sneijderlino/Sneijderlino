@@ -8,27 +8,36 @@
 
 ---
 
-## 👨‍💻 About Me
-I’m *Sneijderlino, a passionate developer from **Indonesia* 🇮🇩.  
-I specialize in *web development, backend systems, and creative content creation*.  
-My focus is on building *scalable, efficient, and user-friendly software solutions*,  
-while also sharing my journey through *tech content* and *open-source contributions*.  
+<!-- 🔥 Typing Intro -->
+<p align="center">
+  <a href="https://github.com/Sneijderlino">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+build+cool+things+with+code+💻;Sharing+tech+and+creativity+🚀;Keep+Coding+Keep+Creating+✨">
+  </a>
+</p>
 
-- 🔭 Currently working on: *Full-Stack Projects & Automation Tools*  
-- 🌱 Learning: *Cloud Engineering & DevOps*  
-- 🎯 Goal: Becoming a *Top Open-Source Contributor* & *Tech Educator*  
-- 🎸 Fun fact: I play *electric guitar* when I’m not coding!  
+---
+
+## 👨‍💻 About Me
+I’m Sneijderlino, a passionate Cyber Security Enthusiast and Programmer from Indonesia 🇮🇩.  
+I focus on system security, secure coding, and software development, with strong expertise in Python for building automation tools and applications.  
+I’m also active in learning, researching, and contributing to open-source projects.  
+
+- 🔐 Exploring: Cyber Security & Ethical Hacking  
+- 🐍 Skilled in: Python Programming & Automation  
+- 💻 Building: Secure & Scalable Applications  
+- 🎯 Goal: Becoming a Top Cyber Security Specialist  
+
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/sneijderlino"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sneijderlino.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.facebook.com/share/1FimN7t1Kv/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/sneijderlino_official"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@sneijderlino_official"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 </p>
+
+<p align="center">✨ Let’s build, share, and grow together! ✨</p>
 
 ---
 
@@ -57,9 +66,9 @@ while also sharing my journey through *tech content* and *open-source contributi
 ---
 
 ## 📌 Featured Projects
-- 🔥 *[Portfolio Website](https://sneijderlino.github.io)* – Personal website showcasing my work & music.  
-- 📱 *Mobile Automation Tools* – Scripts for task automation & productivity.  
-- 🎸 *Guitar Tab Generator* – Converts audio to guitar tablature (under development).  
+- 🔥 [Portfolio Website](https://sneijderlino.github.io) – Personal website showcasing my work & music.  
+- 📱 Mobile Automation Tools – Scripts for task automation & productivity.  
+- 🎸 Guitar Tab Generator – Converts audio to guitar tablature (under development).  
 
 ---
 
@@ -89,9 +98,10 @@ while also sharing my journey through *tech content* and *open-source contributi
 
 ---
 
-## 👁 Profile Views
+## 👁 Profile Views & Counter
 <p align="center">
-  <img src="/img/Sneijderlino.jpg" alt="Profile Picture" width="160" style="border-radius:50%; box-shadow: 0 0 25px #00fff7;"/>
+  <img src="/img/Sneijderlino.jpg" alt="Profile Picture" width="160" style="border-radius:50%; box-shadow: 0 0 25px #00fff7;"/><br><br>
+  <img src="https://komarev.com/ghpvc/?username=Sneijderlino&label=Profile+Views&color=00fff7&style=for-the-badge"/>
 </p>
 
 ---
