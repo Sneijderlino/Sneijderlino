@@ -98,14 +98,7 @@ Currently focusing on penetration testing, exploit development, and open-source 
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sneijderlino/Sneijderlino/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sneijderlino/Sneijderlino/output/github-contribution-grid-snake-dark.svg" alt="snake dark mode animation"/>
-</p>
 
 ---
 
