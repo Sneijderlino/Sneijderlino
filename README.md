@@ -3,7 +3,6 @@
   <img src="/img/Sneijderlino_banner.png" alt="Sneijderlino Banner" width="100%" style="border-radius:12px; box-shadow:0 0 25px #00fff7;">
 </p>
 
-<h1 align="center">⚡ Sneijderlino ⚡</h1>
 <h3 align="center">💻 Cyber Security | 🐍 Python  | 🚀 Tech Explorer</h3>
 
 ---
