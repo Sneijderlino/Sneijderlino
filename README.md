@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">⚡ Sneijderlino ⚡</h1>
-<h3 align="center">💻 Cyber Security | 🐍 Python Developer | 🚀 Tech Explorer</h3>
+<h3 align="center">💻 Cyber Security | 🐍 Python  | 🚀 Tech Explorer</h3>
 
 ---
 
@@ -22,14 +22,14 @@
 
 ## 👨‍💻 About Me
 
-I’m Sneijderlino, a passionate *Cyber Security Enthusiast* and *Python Developer* from Indonesia 🇮🇩.  
-I specialize in *secure coding, system security, automation tools, and ethical hacking research*.  
-Currently focusing on penetration testing, exploit development, and open-source contributions.  
+I’m Sneijderlino, a passionate _Cyber Security Enthusiast_ and _Python Developer_ from Indonesia 🇮🇩.  
+I specialize in _secure coding, system security, automation tools, and ethical hacking research_.  
+Currently focusing on penetration testing, exploit development, and open-source contributions.
 
-- 🔐 Exploring: Cyber Security, Ethical Hacking & Exploit Research  
-- 🐍 Skilled in: Python Programming & Security Automation Tools  
-- 💻 Building: Secure, Scalable & Hacker-Ready Applications  
-- 🎯 Goal: Becoming a Top Cyber Security Specialist & Open Source Contributor  
+- 🔐 Exploring: Cyber Security, Ethical Hacking & Exploit Research
+- 🐍 Skilled in: Python Programming & Security Automation Tools
+- 💻 Building: Secure, Scalable & Hacker-Ready Applications
+- 🎯 Goal: Becoming a Top Cyber Security Specialist & Open Source Contributor
 
 ---
 
@@ -54,6 +54,7 @@ Currently focusing on penetration testing, exploit development, and open-source 
 ---
 
 ### 🛠 Tools & Platforms
+
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -66,13 +67,15 @@ Currently focusing on penetration testing, exploit development, and open-source 
 ---
 
 ## 📌 Featured Projects
-- 🔥 [Portfolio Website](https://sneijderlino.github.io) – Personal website showcasing my work & music.  
-- 📱 Python Automation Tools – Security scripts & productivity hacks.  
-- 🎸 Guitar Tab Generator – Converts audio to guitar tablature (under development).  
+
+- 🔥 [Portfolio Website](https://sneijderlino.github.io) – Personal website showcasing my work & music.
+- 📱 Python Automation Tools – Security scripts & productivity hacks.
+- 🎸 Guitar Tab Generator – Converts audio to guitar tablature (under development).
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sneijderlino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&title_color=00f7ff&icon_color=00f7ff" height="170"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Sneijderlino&theme=tokyonight&hide_border=true&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" height="170"/>
@@ -85,6 +88,7 @@ Currently focusing on penetration testing, exploit development, and open-source 
 ---
 
 ## 🏆 Achievements
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sneijderlino&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=1&column=6"/>
 </p>
@@ -92,18 +96,25 @@ Currently focusing on penetration testing, exploit development, and open-source 
 ---
 
 ## 📈 Activity Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sneijderlino&theme=tokyo-night&hide_border=true&line=00f7ff&point=00f7ff&area=true"/>
 </p>
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="/img/Python-Logo-PNG-Picture.png"/>
+</p>
 
 ---
 
 ## 👁 Profile Views & Counter
+
 <p align="center">
-  <img src="/img/Sneijderlino.jpg" alt="Profile Picture" width="160" style="border-radius:50%; box-shadow: 0 0 30px #00fff7;"/><br><br>
+  <img src="/img/sneijder.jpg" alt="Profile Picture" width="160" style="border-radius:50%; box-shadow: 0 0 30px #00fff7;"/><br><br>
   <img src="https://komarev.com/ghpvc/?username=Sneijderlino&label=Profile+Views&color=00f7ff&style=for-the-badge"/>
 </p>
 
