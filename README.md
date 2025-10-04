@@ -103,14 +103,6 @@ Currently focusing on penetration testing, exploit development, and open-source 
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="/img/Python-Logo-PNG-Picture.png" alt="Sneijderlino Banner" width="100%" style="border-radius:12px; box-shadow:0 0 25px #00fff7;">
-</p>
-
----
-
 ## 👁 Profile Views & Counter
 
 <p align="center">
