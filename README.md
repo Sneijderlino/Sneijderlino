@@ -3,14 +3,15 @@
   <img src="/img/Sneijderlino_banner.png" alt="Sneijderlino Banner" width="100%" style="border-radius:12px; box-shadow:0 0 25px #00fff7;">
 </p>
 
-<h3 align="center">💻 Cyber Security | 🐍 Python  | 🚀 Tech Explorer</h3>
+<h1 align="center">🚀 Sneijderlino</h1>
+<h3 align="center">Cyber Security Researcher · Python Developer · Tech Strategist</h3>
 
 ---
 
 <!-- 🔥 Typing Intro -->
 <p align="center">
   <a href="https://github.com/Sneijderlino">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+Cyber+Hub+👨‍💻;Cyber+Security+Enthusiast+%26+Python+Programmer+🔐;Automation+%7C+AI+%7C+Reverse+Engineering+%7C+Hacking+Tools;Keep+Coding+Keep+Creating+Keep+Inspiring+✨">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+Cyber+Security+Portfolio;Offensive+Security+%26+Vulnerability+Research;Automation+%7C+Tool+Development+%7C+System+Hardening;Learning+%26+Sharing+Knowledge">
   </a>
 </p>
 
@@ -21,23 +22,23 @@
 
 ## 👨‍💻 About Me
 
-I’m Sneijderlino, a passionate _Cyber Security Enthusiast_ and _Python Developer_ from Indonesia 🇮🇩.  
-I specialize in _secure coding, system security, automation tools, and ethical hacking research_.  
-Currently focusing on penetration testing, exploit development, and open-source contributions.
+As an experienced cybersecurity professional, I specialize in offensive security, vulnerability research, and secure automation. My work centers on ethical penetration testing, developing custom security tools, and strengthening the resilience of digital systems through rigorous analysis and hardening.
 
-- 🔐 Exploring: Cyber Security, Ethical Hacking & Exploit Research
-- 🐍 Skilled in: Python Programming & Security Automation Tools
-- 💻 Building: Secure, Scalable & Hacker-Ready Applications
-- 🎯 Goal: Becoming a Top Cyber Security Specialist & Open Source Contributor
+- 🔐 Offensive Security & Red Team Operations
+- 🛠️ Security Tool & Script Development
+- 🔎 Vulnerability Research & Technical Analysis
+- 🎯 Continuous Learning, Mentorship & System Hardening
+- 📁 Open-source contributions and community collaboration
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.facebook.com/share/1FimN7t1Kv/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sneijderlino"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Sneijderlino"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:sneijderlino@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/sneijderlino_official"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.tiktok.com/@sneijderlino_official"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 </p>
 
 <p align="center">✨ Let’s build, share, and grow together! ✨</p>
@@ -67,9 +68,9 @@ Currently focusing on penetration testing, exploit development, and open-source 
 
 ## 📌 Featured Projects
 
-- 🔥 [Portfolio Website](https://sneijderlino.github.io) – Personal website showcasing my work & music.
-- 📱 Python Automation Tools – Security scripts & productivity hacks.
-- 🎸 Guitar Tab Generator – Converts audio to guitar tablature (under development).
+- 🔥 [Portfolio Website](https://sneijderlino.github.io) – A polished showcase of my professional work, open-source projects, and music.
+- 📱 Python Automation Tools – A collection of scripts for penetration testing and productivity automation.
+- 🎸 Guitar Tab Generator – AI-powered tool converting audio to guitar tablature (in development).
 
 ---
 
@@ -114,4 +115,4 @@ Currently focusing on penetration testing, exploit development, and open-source 
 <!-- 🌊 Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00f7ff&height=120&section=footer&reversal=true&animation=fadeIn" width="100%"/>
 
-<h3 align="center">⚡ Hack The Planet | Stay Anonymous | Keep Coding ⚡</h3>
+<h3 align="center">⚡ Ethical Research · Secure Systems · Continuous Growth ⚡</h3>
