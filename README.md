@@ -16,11 +16,11 @@ I am a Security Tool Developer focused on building practical tools that assist p
 
 My work combines offensive security knowledge with software engineering, creating automation, testing utilities, and research-driven tooling designed for real-world cybersecurity workflows.
 
-🛠 Developing custom security & pentesting tools
-⚙️ Automation for security testing workflows
-🔎 Vulnerability research & technical experimentation
-🧠 Offensive security methodology implementation
-🌍 Open-source security tooling & knowledge sharing
+- 🛠 Developing custom security & pentesting tools
+- ⚙️ Automation for security testing workflows
+- 🔎 Vulnerability research & technical experimentation
+- 🧠 Offensive security methodology implementation
+- 🌍 Open-source security tooling & knowledge sharing
 
 ---
 
