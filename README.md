@@ -12,11 +12,11 @@
 
 ## About Me
 
-Cyber Security Analyst with expertise in Python and Bash scripting to automate digital defense.
-I specialize in building custom security tools, performing penetration testing, and streamlining workflows through efficient automation.
-Dedicated to creating secure, innovative solutions for the open-source community.
+Focused on building practical tools and automation using Python and Bash. My work centers on strengthening digital defense and improving penetration testing workflows.
 
-​⚠️ DISCLAIMER: All scripts (Python/Bash) are for educational and authorized testing only. Unauthorized use is subject to cybercrime laws. The author is not responsible for any misuse. Use legally and responsibly.
+I value technical exploration and contributing to the open-source security community.
+
+​⚠️ DISCLAIMER: All scripts and tools provided are for educational purposes and authorized testing only. Misuse is subject to legal consequences. Use responsibly and stay legal.
 ## Connect
 
 <p align="center">
