@@ -12,18 +12,11 @@
 
 ## About Me
 
-I am a Security Tool Developer focused on building practical tools that assist penetration testers, researchers, and security enthusiasts in analyzing and strengthening systems securely and ethically.
+Cyber Security Analyst focused on strengthening digital defenses through advanced automation. With deep expertise as a Python Developer and proficiency in Bash Scripting, I bridge the gap between efficient software development and rigorous cyber security.
+Driven by a passion for exploring emerging technologies, performing penetration testing, and building custom security tools and automation scripts to mitigate risks in a dynamic digital landscape. Dedicated to creating innovative, secure technical solutions and contributing to the open-source community.
 
-My work combines offensive security knowledge with software engineering, creating automation, testing utilities, and research-driven tooling designed for real-world cybersecurity workflows.
-
-- 🛠 Developing custom security & pentesting tools
-- ⚙️ Automation for security testing workflows
-- 🔎 Vulnerability research & technical experimentation
-- 🧠 Offensive security methodology implementation
-- 🌍 Open-source security tooling & knowledge sharing
-
----
-
+​⚠️ STRICT WARNING / DISCLAIMER:
+All scripts (Python, Bash, or any other code) provided by me are created strictly for educational purposes and authorized security testing only. Misuse of these tools for illegal activities or unauthorized access without written consent from the relevant parties is subject to cybercrime laws and legal prosecution. The author assumes no responsibility for any loss, damage, or legal consequences resulting from the misuse of this material. Use wisely and stay legal.
 ## Connect
 
 <p align="center">
